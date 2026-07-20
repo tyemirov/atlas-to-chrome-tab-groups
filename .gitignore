@@ -1,0 +1,9 @@
+# Finder and Python metadata
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Private per-run migration artifacts: URLs, group names, and local logs.
+atlas-to-chrome-export-*/
+atlas-to-chrome-run-*/
+*.log

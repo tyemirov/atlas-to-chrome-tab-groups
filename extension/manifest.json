@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Atlas Tab Groups Importer",
+  "version": "1.0.0",
+  "description": "Temporarily recreates a local Atlas tab-group export in Google Chrome.",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1m6HQMe0rVh/sDK59JyHeW9Xcy/KboPFkgS/lKGk5Hv54/+zRz2RNFN/wGlDYlDhFudhXsxDqsmsRW7tRE6X3HTJ4zo8nphwQ4jRY/KWBJ13MOPQ5QjVQgDl5H46U3OhtCwr+uWEwVpc82Ua6HBMl+4/btzZzB5X827EyHcc5/FVQwNgqPt4RTKpjDDctXJcaXskQfRp5zHUO77zVkV66REtzpbvpumm6lfQBrM2rI4qwr29e1cJGblSKqhbhFvkrEYJfTSufmBbJCZ+GNdU/lCK295xuDUxhlbIeo5qA1xejMGZB7TKcjtD8ifPXXxai/REMAV0uDB1788DueDqnQIDAQAB",
+  "permissions": ["tabs", "tabGroups"],
+  "host_permissions": ["http://127.0.0.1/*"],
+  "incognito": "not_allowed"
+}

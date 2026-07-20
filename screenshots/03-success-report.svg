@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Example successful Atlas to Chrome import report</title>
+  <desc id="desc">A privacy-safe local importer status page showing a successful migration with generic counts.</desc>
+  <rect width="1280" height="720" fill="#eef2f7"/>
+  <rect x="210" y="115" width="860" height="490" rx="18" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <rect x="210" y="115" width="860" height="70" rx="18" fill="#f8fafc"/>
+  <circle cx="255" cy="150" r="11" fill="#ef4444"/><circle cx="290" cy="150" r="11" fill="#f59e0b"/><circle cx="325" cy="150" r="11" fill="#22c55e"/>
+  <text x="370" y="159" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="25" fill="#334155">Atlas Tab Groups Importer</text>
+  <circle cx="310" cy="275" r="47" fill="#dcfce7"/>
+  <path d="M285 276 l18 18 l35 -42" fill="none" stroke="#16a34a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="394" y="281" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="42" font-weight="700" fill="#166534">Import complete.</text>
+  <text x="294" y="373" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="30" fill="#334155">1 new Chrome window, 90 tabs, and 9 named tab groups were created.</text>
+  <text x="294" y="425" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" fill="#64748b">Existing Chrome tabs were not changed.</text>
+  <rect x="294" y="468" width="692" height="72" rx="10" fill="#f1f5f9"/>
+  <text x="325" y="513" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="23" fill="#475569">Only the local export was read; no cookies or passwords were copied.</text>
+</svg>
